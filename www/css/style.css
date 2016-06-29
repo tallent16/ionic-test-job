@@ -1,0 +1,14 @@
+/* Empty. Add your own CSS if you like */
+.flash_icon i
+{
+	display: block;
+	font-size: 20px;
+}
+a.flash_icon {
+    display: block;
+    line-height: 25px;
+    font-size: 11px;
+    text-align: center;
+    padding: 6px 0;
+    text-decoration: none;
+}
